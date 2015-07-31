@@ -21,21 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="flyingCubus.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="flyingCubus.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/html/flyingCubus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.3076923">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.52435064">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StaticNoise.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StaticNoise.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/html/StaticNoise.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.5113637">
-              <caret line="91" column="7" selection-start-line="91" selection-start-column="7" selection-end-line="91" selection-end-column="7" />
+            <state vertical-scroll-proportion="-5.8846154">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -74,8 +74,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/html/index.html" />
-        <option value="$PROJECT_DIR$/src/html/flyingCubus.html" />
         <option value="$PROJECT_DIR$/src/html/StaticNoise.html" />
+        <option value="$PROJECT_DIR$/src/html/flyingCubus.html" />
       </list>
     </option>
   </component>
@@ -122,6 +122,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="playgroundnew" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playgroundnew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playgroundnew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -198,7 +208,7 @@
       <recent name="C:\dev\webstorm\playgroundnew\src\textures" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.flyingCubus.html">
+  <component name="RunManager">
     <configuration default="false" name="flyingCubus.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/playgroundnew/src/html/flyingCubus.html">
       <method />
     </configuration>
@@ -305,18 +315,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/flyingCubus.html">
+    <entry file="file://$PROJECT_DIR$/src/html/StaticNoise.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3076923">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        <state vertical-scroll-proportion="-5.8846154">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/StaticNoise.html">
+    <entry file="file://$PROJECT_DIR$/src/html/flyingCubus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.5113637">
-          <caret line="91" column="7" selection-start-line="91" selection-start-column="7" selection-end-line="91" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.52435064">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding />
         </state>
       </provider>
